@@ -1,0 +1,10 @@
+#header-top {
+  height: 950px;
+  background-image: url("../bycicle/images/bg-orange.png");
+}
+.navbar-nav a.text-color {
+  color: #ff8a00 !important;
+}
+.btn-color {
+  background-color: #ff8a00;
+}
